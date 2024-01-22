@@ -11,5 +11,5 @@ O projeto se trata de um client de chat para o telegram, utilizando um bot para 
  ## BackEnd:
  - Node.js
  - Express.js
- - Socket.io
+ - Socket.IO
  - GramJS
