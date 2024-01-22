@@ -21,11 +21,11 @@ io.on("connection", (socket) => {
 });
 
 const apiId = 29559675;
-const apiHash = "408eef6090d95489cdb4308dc6324caa";
-const botToken = "6470658225:AAE5INIUR3JqQoBcfL_RzxNlZsSfHhL4vJI";
+const apiHash = "Insert your api Hash here";
+const botToken = "Insert your bot Token here";
 const stringSession = "";
 
-// const username = "joaomanuelsm"; // Substitua pelo username correto
+
 
 const client = new TelegramClient(
 	new StringSession(stringSession),
